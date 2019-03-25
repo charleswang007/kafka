@@ -39,7 +39,7 @@ Building real-time streaming applications that transform or react to the streams
 ![flow](/images/producer.png)
 
 ## Architecure - More
-![architecture](/images/architecture1.png)
+![architecture](/images/architecture1.jpg)
 
 ## Cluster
 ![cluster](/images/cluster.jpg)
