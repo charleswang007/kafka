@@ -76,6 +76,16 @@ Kafka 是 Apache 下的一个子项目，是一个高性能跨语言分布式发
 
 [https://ithelp.ithome.com.tw/articles/10191771](https://ithelp.ithome.com.tw/articles/10191771)
 
+## Kafka HA
+
 [https://github.com/doocs/advanced-java/blob/master/docs/high-concurrency/how-to-ensure-high-availability-of-message-queues.md](https://github.com/doocs/advanced-java/blob/master/docs/high-concurrency/how-to-ensure-high-availability-of-message-queues.md)
 
 [https://fangjian0423.github.io/2016/01/13/kafka-intro/](https://fangjian0423.github.io/2016/01/13/kafka-intro/)
+
+[https://www.infoq.cn/article/kafka-analysis-part-1/](https://www.infoq.cn/article/kafka-analysis-part-1/)
+
+[https://www.infoq.cn/article/kafka-analysis-part-2/](https://www.infoq.cn/article/kafka-analysis-part-2/)
+
+[https://www.infoq.cn/article/kafka-analysis-part-3/](https://www.infoq.cn/article/kafka-analysis-part-3/)
+
+[https://hiya.com/blog/2018/06/07/hiyas-best-practices-around-kafka-consistency-and-availability/](https://hiya.com/blog/2018/06/07/hiyas-best-practices-around-kafka-consistency-and-availability/)
