@@ -54,4 +54,4 @@ Building real-time streaming applications that transform or react to the streams
 
 [https://ithelp.ithome.com.tw/articles/10191771](https://ithelp.ithome.com.tw/articles/10191771)
 
-
+[https://github.com/doocs/advanced-java/blob/master/docs/high-concurrency/how-to-ensure-high-availability-of-message-queues.md](https://github.com/doocs/advanced-java/blob/master/docs/high-concurrency/how-to-ensure-high-availability-of-message-queues.md)
